@@ -1,0 +1,44 @@
+
+.container {
+  padding: 0;
+  background: #ffffff;
+  overflow: hidden;
+  max-width: 550px;
+  margin: 50px auto;
+  font-size: 80%;
+  border: solid 1px #eeeeee;
+}
+
+.container a {
+  color: #58aeed;
+}
+
+.container__ {
+  padding: 100px;
+  background: #ffffff;
+  overflow: hidden;
+  max-width: 550px;
+  margin: 50px auto;
+  font-size: 80%;
+  /* border: solid 1px #db0f0f; */
+}
+
+.container_ {
+  text-align: center;
+}
+
+.container_  span{
+  font-size: 2rem;
+}
+
+/* タイトル部分 */
+.container_title {
+  background: #58aeed;
+  padding: 10px;
+  text-align: center;
+  font-size: 150%;
+  color: #ffffff;
+}
+
+
+
